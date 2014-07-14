@@ -1,0 +1,29 @@
+{
+  "name": "basic-oop",
+  "version": "0.0.0",
+  "description": "This is an intro to package.Json ",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CharisseL/basic-oop"
+  },
+  "author": "Charisse Lambert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharisseL/basic-oop/issues"
+  },
+  "homepage": "https://github.com/CharisseL/basic-oop",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "sync-prompt": "^0.4.1"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "jshint-stylish": "^0.4.0"
+  }
+}
